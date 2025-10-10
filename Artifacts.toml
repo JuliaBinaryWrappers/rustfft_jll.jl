@@ -1,677 +1,288 @@
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "7d008f35df8d9ec5bfbb43405edc480569aceb3d"
+git-tree-sha1 = "ff47d8c84b67bcab8723405cce313df1747fb93c"
 julia_version = "1.10.0"
 os = "macos"
 
     [[rustfft.download]]
-    sha256 = "669769b8a7fda1dcfc5d5506c466a50427140453692960fd93a16bf272126922"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "403a91bb1d39f98cbb314b0c7a3c52de0d1a53f94b26691bc5aa41df25f9fd10"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "7c15d31f85424cb69be7171bfcc079be4e2c9ae8"
+git-tree-sha1 = "e89ff1b7fe600a872b6ac9e253da9eee060fbf28"
 julia_version = "1.11.0"
 os = "macos"
 
     [[rustfft.download]]
-    sha256 = "b604da6bf8a85fcde9042df7ef893d958aae88ea8b27b8a412ea943ed1b055f3"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "69c1e5f9b6f7782fbb44e586070460fc4b29688316862e2686e73752a57bd1e3"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "60bdc54c92a0290c4ae750aa1365be1ca63149db"
-julia_version = "1.7.0"
+git-tree-sha1 = "53cbdb1f69975ee0bc6333e266e4fae83b74f474"
+julia_version = "1.12.0"
 os = "macos"
 
     [[rustfft.download]]
-    sha256 = "afca7558ace6a1967eb4a557f8d4a6198cf76db58ef61a40f9fd2c8add205297"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "951145ecaf9f0222630ecc5e4f3dad79518a6a21fd66cc69d30cb4646999c0b6"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "3be754880cd2ec139bd45212721e12ec74b2a9dd"
-julia_version = "1.8.0"
-os = "macos"
-
-    [[rustfft.download]]
-    sha256 = "93577c37ee1d10909f044e9d74611f057dcfd7594888f65aa8f342856996bd59"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "d410ad4c51edb976b30f0ddb85d5d7880c1bdc7f"
-julia_version = "1.9.0"
-os = "macos"
-
-    [[rustfft.download]]
-    sha256 = "1e86593845fd3d085272fb254d5fe0aa0eb270d355f6699182a2a12fdbfb669f"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "b2df1f018b1806db6ec44a897700e62ab373db91"
+git-tree-sha1 = "9df4957c5a3972b075ed44079b8538a33c07c471"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "284aabb578027bcace91e6c8683cf31c99662ecd61b73db488b620b7797a30ee"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
+    sha256 = "b57ba6674d7b8f264c0cb2685463f301f3fb23f01c094aa73626725a4beb07d7"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "aaf19afdb12aa59b58776a75c769e2ecc4dd1ab0"
+git-tree-sha1 = "70d5e17131804840f6dc0163ba04e3d8fb1aa553"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "cf0fc6b5c469a379077990235b1ddfdc050917016fc8d340127c0376b2e1ee92"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-gnu-julia_version+1.11.0.tar.gz"
+    sha256 = "c325ae56830178b691cd25f8626a3a8d9294d7147c4bc2161dfdfc500c7d69bf"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-linux-gnu-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "a0cb1dfe21574866207b530ea60343c79319f7f1"
-julia_version = "1.6.3"
+git-tree-sha1 = "eda725ff8417c17bd31a50eef913952868b0a72e"
+julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "e06f02ab2fc952e2549fdf5d1fe0fd91e733d576abd9318902926e1ec81bdb78"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-gnu-julia_version+1.6.3.tar.gz"
+    sha256 = "783d662cec819281c8662ee2528477736356955b00cd14b3169a3b879d4e0f95"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-linux-gnu-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "89cf7f6e27da532c39d9a81caf7cf67960aa2afb"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "5531c4c833435d43ea1ccfbf6e512295ebc12b91ccfb309feb355050fec1dbf9"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-gnu-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "af7f993887002fcf3e8f043aa31e86dafc7740b3"
-julia_version = "1.8.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "0621ba29753fb0439ae072002765b0d61dd766a794c63114a9906c6af6aaef0b"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-gnu-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "e97facef0ab6551ac8230f732af6bf17640e3b27"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "c696931392ee1f0d9dc9e1d7733e9bb6e9ffe1a9f37b9348926ee386b81dc68d"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-gnu-julia_version+1.9.0.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "c9b238538466cdf778f697fa5b3ef98c8196d9e1"
+git-tree-sha1 = "e3f2db6081d2d793080a28b39437a1aa4e7ae94e"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "4938f77d947cfa6697dd8cafccbe3f2f608943455cce4478af7269128dbcd76a"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
+    sha256 = "423ac3a7aaa2c16169ae93b2a82bab407f2c6654cc98ffae8ecb8ef98da06ec0"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "49c00a47a95bd77341b7203e6f9cd07ee7386869"
+git-tree-sha1 = "a35d34bd31eae17bcd3e2c02a5fa19f307ffee87"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "91ab19923a71783a2b0a175f529498cd7d053ca49e4e8897f5c06031014903e5"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-musl-julia_version+1.11.0.tar.gz"
+    sha256 = "fa20fe1c5cac3662b9fe04832f1a6c42a4b3fcb9ca3479ebe9fd9b0a07d6524e"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-linux-musl-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "aarch64"
-git-tree-sha1 = "0e35d73e8d433ff632ded1706b2241f5e51b2152"
-julia_version = "1.6.3"
+git-tree-sha1 = "45ead40465894e2e273365ff0b1ed62bef2d557e"
+julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "5767572765bbf8e2b9452fa62c8e00e5bd9a3e63645e623ba96a848445d07261"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-musl-julia_version+1.6.3.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "b1fe1d880d24e35272c92d51b304d613bfec8960"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "0e030f167ff94ebcca6a36fdaa54873c987986cfa33c3e84be890fc333bca0f0"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-musl-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "f6b9c8e5d7e895b5c85d3d1f4610c10e78ce2c50"
-julia_version = "1.8.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "def18c801c9a69ead2e12d529768533a98c598db9a5aa4ba4cb6a96e3efd7d3e"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-musl-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "aarch64"
-git-tree-sha1 = "6c7712324b16acdf92389e944da314b35416d982"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "25cb8d01e69c1807ef5cb347f5d1f8f8b9c436cf6d400787a718f35159878426"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.aarch64-linux-musl-julia_version+1.9.0.tar.gz"
-[[rustfft]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "1d62c91aebc504bba710dd5e6f0b3ffe11fad8a2"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "e231e35d44560746ff46bf759a087159e521991368b94fd672481e188bf309c2"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv6l-linux-gnueabihf-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "9ba34a2c043ea2933c4848167371cc9928abd738"
-julia_version = "1.8.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "2d92cf7c63fce86ec002ae1cf6f0c56bdce53b576f268ac46d9f1584835ce94f"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv6l-linux-gnueabihf-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "2306fcab43d1fa42e20055e52d6e979190ffbaf4"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "12e251ec241cf42779e20dbcd8f00555327031dc95311ddd356f57b6622092d8"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv6l-linux-musleabihf-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "33a0602600dba4f83c0f7605e6d0ef67a312b53b"
-julia_version = "1.8.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "7e4ae1abe0273760bd673ee3754b30720ce8467120dcb234e0331a89f2a54380"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv6l-linux-musleabihf-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "0d124e9d324ded5fbfbafc84abe7f02f7ea74085"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "cb3872358a975e95c4b20b602b27b192830964a8cd9d6c4fafd50b1c5bc6c9ee"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv7l-linux-gnueabihf-julia_version+1.6.3.tar.gz"
-[[rustfft]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "d594c879ac46c1b7ea461a7e770e6b557f872b5c"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "85fbe007f67f8fedd002c8989eaed7a47c0107676c64f024cc422cbb650612ad"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv7l-linux-gnueabihf-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "ee387fad0fecaf43a3e0c143b3b89aa86fe4583f"
-julia_version = "1.8.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "beaa4edd1e5e287d90013cb1908395c70724ab6005756bbea9230198f8342fbe"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv7l-linux-gnueabihf-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "f78f9f17a57d1ea6c0eacb972ba07c427689d30d"
-julia_version = "1.6.3"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "42a9498a5e25b9d014bb60c36fe41e9d1e9de14b8acb014c90c18c3a76a7cf2a"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv7l-linux-musleabihf-julia_version+1.6.3.tar.gz"
-[[rustfft]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "c2ad3a9d1ece1564936b5a8e1c682b88de8f0700"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "94ed051a4f0965672b601a43833442b35b39f31d62c78243e9a6738959bc9518"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv7l-linux-musleabihf-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "9d50a23a56252f2f52c276fd714c91e7e395c53a"
-julia_version = "1.8.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "65a70b5333a325ed291b3d639d62931d1c8921274fed47f780ee5a54d954e6e1"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.armv7l-linux-musleabihf-julia_version+1.8.0.tar.gz"
+    sha256 = "c1b2ed3e5c84d151e907c57981a9632aafa5536ad9a3056772c4ad68d9a1da7d"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.aarch64-linux-musl-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "i686"
-git-tree-sha1 = "8d11843dc2702a2e0ac52fa5ce30807bb300dd50"
+git-tree-sha1 = "fba1583f033da9e7d3efb65d12813cd6f2eba3a3"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "eac0f1f352d12f25a08c16d077f2f7a4325ec16624361062c37b4374307d97f5"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.i686-linux-gnu-julia_version+1.10.0.tar.gz"
+    sha256 = "755446d497c640337e672c40da7642d8c17534324a70c47dad27a6e39c25b8e4"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.i686-linux-gnu-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "i686"
-git-tree-sha1 = "a8993c8e94359523cc232146961fafe61df2e3b3"
+git-tree-sha1 = "21c8fd66b1987518db949c8318c29d66064b0f4f"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "95a484e9a6f470bee1bc6aca1418842ea11e7ce6cee20b59b34a77798964ea48"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.i686-linux-gnu-julia_version+1.11.0.tar.gz"
+    sha256 = "916f98322e9c931db0a2b8c960bfd67507e9289cf4eb5e5ddb463c16e22946b0"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.i686-linux-gnu-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "i686"
-git-tree-sha1 = "fea3c474fa32232ff7ef330f9ace453775fcae64"
-julia_version = "1.6.3"
+git-tree-sha1 = "d56a5aacdc33bc56f4d1a3070a76318f2af21135"
+julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "93352cbe3bd0f1c0168f97b3c1ebf727b299331545cb164b5253cf01896d8cdb"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.i686-linux-gnu-julia_version+1.6.3.tar.gz"
-[[rustfft]]
-arch = "i686"
-git-tree-sha1 = "6bca5c29c3350796b09ed625f5f9c84b9a3516ef"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "2007afaf347802646b2c847e90dbded771dda56161d05ae26afb955ced1c4033"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.i686-linux-gnu-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "i686"
-git-tree-sha1 = "92c6fc11629cea957366b669bbbc63e5107eb4c3"
-julia_version = "1.8.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "69ec39cf35a2a1710425c33bcbdfce50a426e82f54b7384d769e81e106e3a7b1"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.i686-linux-gnu-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "i686"
-git-tree-sha1 = "05b5468b4f011bad70c0aa1c40d350f34d330b46"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "e37678be72ff98484b184a80792228f1a8dcf5db02929993ece8deffae578a46"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.i686-linux-gnu-julia_version+1.9.0.tar.gz"
+    sha256 = "c9971d255a4293c29b7fb789cd0acc296fcfcbb27d6bda87b83f6d18a2bd4db8"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.i686-linux-gnu-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "powerpc64le"
-git-tree-sha1 = "fa31de47b1c84c10f34fb90dbd54afa9a6a397f4"
+git-tree-sha1 = "581b94644123fe0224775d00f09d2cd41b4f5390"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "4b0e185e21d74c51c7ca139d70e1e83c7b4eeac6b14bc6baa80713fb32567ff4"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
+    sha256 = "6a14388b8d00365db34561586aa4268d6bcbddc43267ab26c1e65fb340aeaf00"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "powerpc64le"
-git-tree-sha1 = "c36620dead7fd6c3e45186b7fb7fb2c296b94e16"
+git-tree-sha1 = "7688dd599b41b82838e34db7ae181509775d522e"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "b261a9a23f911cbe96900a455c0386461579db8617b8da507c5a4b9f8cf1443e"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.powerpc64le-linux-gnu-julia_version+1.11.0.tar.gz"
+    sha256 = "b8de2f94af67c7b262302df633584ea71b770f2132ceca664f38665b10124c64"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.powerpc64le-linux-gnu-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "powerpc64le"
-git-tree-sha1 = "fc61855265dbdaefe3636312791241cf3f698751"
-julia_version = "1.6.3"
+git-tree-sha1 = "135c57484dcfe810814c1ba7664ae93977ed1386"
+julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "07e59d6118cb60ebeaded10aa8f439d7017e13425a85c310e45f8d4702751e50"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.powerpc64le-linux-gnu-julia_version+1.6.3.tar.gz"
-[[rustfft]]
-arch = "powerpc64le"
-git-tree-sha1 = "16f1896c79de3ceda201c614908a33fd345526ed"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "b994c840417a4877aac2ebf53431bfedab37da47e419c9e0a1c2a26a61f6229c"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.powerpc64le-linux-gnu-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "powerpc64le"
-git-tree-sha1 = "3679742d5fd914614d3d7886347b7d497ce87c56"
-julia_version = "1.8.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "5ed34a05180a98a4f1362e809a64d75ed41d6006ee088ee1a15abb820630882e"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.powerpc64le-linux-gnu-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "powerpc64le"
-git-tree-sha1 = "1c41ce958d2075aa1b38cd869c2368005a93f15c"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "40d52dc4851ad61a7af918c32c6cbe2ee322e8932fe5eef8f73d8b4b03282f7c"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.powerpc64le-linux-gnu-julia_version+1.9.0.tar.gz"
+    sha256 = "3a1921764631eb46aca12621f8056f1e3a66e47e237efcb4d4fe1dd77d610259"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.powerpc64le-linux-gnu-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "8dcf3773bb076d11c96f1b9303b181795bdf4ae4"
+git-tree-sha1 = "ddbceba767217a6384ea501cb119be11f2cd55b4"
 julia_version = "1.10.0"
 os = "macos"
 
     [[rustfft.download]]
-    sha256 = "8d7cf6bf877471682aa75e9a155fd6dbc028f42a8ffc423f87da647886674dfa"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "3fac50fe51ca53852bb780cd53ec763e1222063a8bc1079feab7f667433fc3d6"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "8e5d6a70fafc1ff4934600fcb2dea525dd31f443"
+git-tree-sha1 = "b531f63d82b7931921239131599a6203494b0468"
 julia_version = "1.11.0"
 os = "macos"
 
     [[rustfft.download]]
-    sha256 = "c92831ee033cd4d6adb6ebd1fc449dce6f39845955298a62b54d7ed14d3e0e61"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+    sha256 = "18f96a886685ef3b6aaa49f688aebca461e5ff4dba52246e3a3a9319b2d03a06"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "6a3a07f0413abe7d73bfe4b26af6e1c0d724f916"
-julia_version = "1.6.3"
+git-tree-sha1 = "04e534b502001c36551d6c94df8544947048a7e2"
+julia_version = "1.12.0"
 os = "macos"
 
     [[rustfft.download]]
-    sha256 = "edeb9484d213a75fce8fba794541b4e252d85a771f2f5fa9ed06e859d15a76ee"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "d8d9014a3e01e78f8492bb455b2f4822d62d944124f588991ace25a836476eaa"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "1da3fe2eecc0163c004ef0883f64225034591dc8"
-julia_version = "1.7.0"
-os = "macos"
-
-    [[rustfft.download]]
-    sha256 = "a5ddf53e8a16b3224253018bedebd76d0ff5f9a4b9aa89357cf2c61ca2fcc1c6"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "727268b12f59a2ebf13c6e481ab5e6d975bbdfae"
-julia_version = "1.8.0"
-os = "macos"
-
-    [[rustfft.download]]
-    sha256 = "f42953293b3ea29f0c5459b557f2e7acab5ba3474d262b8a95dde26c32a5758b"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "0b04218a33ff6ce2970598101f5a1142e1788d76"
-julia_version = "1.9.0"
-os = "macos"
-
-    [[rustfft.download]]
-    sha256 = "34461b7d8a6a554e66d1782f543a6e41a8cc00ebb6856fa9ace3fc624ddbb351"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "7ef842151e22fdfdfb4baacfa8d217f31f914b61"
+git-tree-sha1 = "d6f86fa3a091c4d0618b59520ddd6da1763d0764"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "08dfd1f8f1277db3f28f500bf33020dbc810c3562c1ea33909ebaf8a288367dc"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+    sha256 = "9d0762724703f513162ce4908dbd740423399f01e09d5a3749fcc3e04bb3dfb0"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "38874aa47b7a5ab19de46324920e70a0e657b706"
+git-tree-sha1 = "7627ee4675b0dc390b5fea4d000ecddc93ae494f"
 julia_version = "1.11.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "8793a885d36bb69ae3971143322a52f81878eca3a7777aedceb67d19c274ef03"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-gnu-julia_version+1.11.0.tar.gz"
+    sha256 = "83a279e026bca8e8080dbcb97d7f74231c14e5f8ca2b6db3911806ef54a4991d"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-linux-gnu-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "86ec08c39ec2ef183847e1205056fe0f58d7e87c"
-julia_version = "1.6.3"
+git-tree-sha1 = "3a2fbc934d55f0742415a1f8b5fe7355221b88f9"
+julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "b2677a75bd745c98c264ef01f78ef8c43462ef6efd82726a1b80cdc36685114e"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-gnu-julia_version+1.6.3.tar.gz"
+    sha256 = "1c5f5e75c57be6d381ffd7a4583a202d1aeb1ea27d9b01e3788990b7a8837e66"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "cfe723918555db3c0cde1af4f4107c3f0bfa34b8"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "cf9235926f378922b555d75d20d6952af940df22d925624c901579f0186a70ff"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-gnu-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "b8f8c2b4f3e93613e557ee40398cf60a8ed176b6"
-julia_version = "1.8.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "052c887301a40d1c980df2e8af4979381c4853c722cb35d9c35462018c2fc024"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-gnu-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "d1548cd9d6a0d7037019f023ed3fcf77448fdeb2"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "a9a4ac742df80db1bb41a1bd5065a4011c436ed319f8f8a4c14cccc281439ec1"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "cdcec6e3e42a2e68e6eb99f608ff38c2a06198e4"
+git-tree-sha1 = "34f26dfae0ffe0987c07d9f4e53d0e855d5a6ccc"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "9efb1c65af073c06407ebb46cf0f12311893d58cd3c95b71a3e2773df6dd380c"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
+    sha256 = "3976b8189bafd19789c16641b58daef5d56ebd65bc24a5fdd54c789fae939971"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "3509d5d1488d40746c2fc3fd12ffbd8ead401e28"
+git-tree-sha1 = "07522e4cca4a8dfe76a69fcea28ef2e8d6a8867c"
 julia_version = "1.11.0"
 libc = "musl"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "f87b61fc76f667d264ae8f42df052ad68a76679f8225a1e05f6369815eebeb48"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-musl-julia_version+1.11.0.tar.gz"
+    sha256 = "da03dbb96440671bf0c418dfc5543d7da888ea11f5758aa2c91cfb42d867a852"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-linux-musl-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "10de7865d295ff83a0fa2bccbb8c2f3eee821859"
-julia_version = "1.6.3"
+git-tree-sha1 = "58ee8c61960023162136d1e4522107d5e685d301"
+julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[rustfft.download]]
-    sha256 = "d4ba9397f0916ac506a9e0c1b839396ef4b52b652c8152fcff546a6d789cdbce"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-musl-julia_version+1.6.3.tar.gz"
+    sha256 = "11f056d90a50e88133efcce51687b27d6cac6c046a989d2e33f91a579c97dec2"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-linux-musl-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "ecd4bc8d0151dd8547e0fdc74df7ec60a7e849fc"
-julia_version = "1.7.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "e5a1448417dee1e69bf3269e68de46d4e892b70606b7c81285cc831161be221e"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-musl-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "068d6ef88e9977695e025181bbd28d968c07457c"
-julia_version = "1.8.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "886ae754a42f8d5c42ccc9a0ae3fa4af07297c4d24706535e4f14ef34e1b99f7"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-musl-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "005b89cb84ecf1e02db337301cdbc63e432b7eea"
-julia_version = "1.9.0"
-libc = "musl"
-os = "linux"
-
-    [[rustfft.download]]
-    sha256 = "f833a5db4b6d6fc5a760958b0b25fcacbeddb40b6ebb6869330b8e108ed1bb7a"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-linux-musl-julia_version+1.9.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "175664ede51fe9400a49f080690d36609ae1ce9d"
+git-tree-sha1 = "17da885407b8b269384461d50b4aa01b0ef6af9c"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[rustfft.download]]
-    sha256 = "fc9c2a1893db51806824d9a1f1cc182720fc00acf027cb0b43705a7f609c0328"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "7eb9a37eb8fa83df5ae1cfcbf09755d412ffc87f72cfaadaecb1d56e2f39d347"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "4b4524358fa1f4d418b58ffba88a3cd26ac4ebcd"
+git-tree-sha1 = "a85bacbc7f064d9567470684147a4fa315a9c879"
 julia_version = "1.11.0"
 os = "freebsd"
 
     [[rustfft.download]]
-    sha256 = "dbc131dabe0da93a20837a6a61da180839fc586c4e9a9301834db7e53039b5af"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
+    sha256 = "70cb480b360aa28e44e44e16bed3f505ec4b88cc823b1735bdbb6bf3fc67e702"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-unknown-freebsd-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "752341804817770fca451e38fbb2d4773f1c4edc"
-julia_version = "1.6.3"
+git-tree-sha1 = "3a2be5edc4202c4d534c15aa949fcc4121b29114"
+julia_version = "1.12.0"
 os = "freebsd"
 
     [[rustfft.download]]
-    sha256 = "2d2ca06c3624f27ced19cb2aa57df9a1be5065370d9b3252b50a351277292bd5"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "ede4e3b73a21c5df7eeffd4494c2517be340e6d6a6eb3d8f28a04d7b091b01a3"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "654e947c879cd79155b6e2add31197452877314b"
-julia_version = "1.7.0"
-os = "freebsd"
-
-    [[rustfft.download]]
-    sha256 = "3174e293c25e77c61a606096b9952bd0536dfcc2ea17fadc2aafd41a30704fb1"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "24141601b51d471a7b43ef4e28294aba8ed9c5d8"
-julia_version = "1.8.0"
-os = "freebsd"
-
-    [[rustfft.download]]
-    sha256 = "e767bae10dc170247f80104543d4809b9adade01b400778ae068b88d368bfa90"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "1f80e88092aa951fd145ce81c8774ed4f67ac620"
-julia_version = "1.9.0"
-os = "freebsd"
-
-    [[rustfft.download]]
-    sha256 = "7c84b9de83632aa25ae8745127e94ec1fbee26455a18f6ab70eeb3a1b4eb70a7"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "d2be47022f064608877dfc6cbcda54998f371d6b"
+git-tree-sha1 = "11f8a82c0236c1584f139deec7feb5bb071808d3"
 julia_version = "1.10.0"
 os = "windows"
 
     [[rustfft.download]]
-    sha256 = "f441cb990e77959ade29562561798e03dbed21e4eb2e945db8bc64427814e3da"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-w64-mingw32-julia_version+1.10.0.tar.gz"
+    sha256 = "afd52f523b8b829cc95c2045b9c1742fc13e1759dd6bf567d85b496e846106be"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-w64-mingw32-julia_version+1.10.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "605be22f5ad0fc05d1a492652f17da4019cac4d6"
+git-tree-sha1 = "86805f2df6ae0c5ee17782425c8f9941047d40ba"
 julia_version = "1.11.0"
 os = "windows"
 
     [[rustfft.download]]
-    sha256 = "37b4ad2771cc8f36dde1c1c6450c4a2c06f76ba26de26222a7bfeac26b66884a"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-w64-mingw32-julia_version+1.11.0.tar.gz"
+    sha256 = "73908453c02d54d3ae891e3286f2bfdd6dca274f0b2f63324427861d6e2b57e5"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-w64-mingw32-julia_version+1.11.0.tar.gz"
 [[rustfft]]
 arch = "x86_64"
-git-tree-sha1 = "1a809c136116bf4e223b50be3c2c9d66ed0b318f"
-julia_version = "1.6.3"
+git-tree-sha1 = "9d7d12be638c125e21e4348dfb33380b2b949e6f"
+julia_version = "1.12.0"
 os = "windows"
 
     [[rustfft.download]]
-    sha256 = "135cc1f2c6b82cb13a08659d77ce77ce4fea3f45a42d79dc275c40835d334cc3"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-w64-mingw32-julia_version+1.6.3.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "b2f6074b3d7e968958f0361718b119cc70a604ea"
-julia_version = "1.7.0"
-os = "windows"
-
-    [[rustfft.download]]
-    sha256 = "13e9f052d51869462b515ac0986c9da3b304ac4b24e78d3790b321e16ea58a73"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-w64-mingw32-julia_version+1.7.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "d50b918e369325b0fde6c9f0d5769c0324f326c6"
-julia_version = "1.8.0"
-os = "windows"
-
-    [[rustfft.download]]
-    sha256 = "cfbdbe41c02a032117bfd769d44130df0b68819ec8533d938a623f7ceec2d267"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-w64-mingw32-julia_version+1.8.0.tar.gz"
-[[rustfft]]
-arch = "x86_64"
-git-tree-sha1 = "ef1099c4a4a5aa3fcb4ffd987076b20c152753a0"
-julia_version = "1.9.0"
-os = "windows"
-
-    [[rustfft.download]]
-    sha256 = "dd3bb13b813de38ce3d5140ced62fa0954869dec5f94f76507936a2861a92d56"
-    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.4.0+0/rustfft.v0.4.0.x86_64-w64-mingw32-julia_version+1.9.0.tar.gz"
+    sha256 = "e8667bbc40d6e5994cc0850ae88afc52ecf1a9df30ccd844513dc1e0924f44da"
+    url = "https://github.com/JuliaBinaryWrappers/rustfft_jll.jl/releases/download/rustfft-v0.5.0+0/rustfft.v0.5.0.x86_64-w64-mingw32-julia_version+1.12.0.tar.gz"
